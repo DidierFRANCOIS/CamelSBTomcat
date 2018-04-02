@@ -1,4 +1,4 @@
-package sprigboot.basic;
+package camel.sprigboot.tomcat;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
